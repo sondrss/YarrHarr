@@ -16,7 +16,7 @@ The Captain is the leader of the ship and its crew, skilled in persuasion, strat
 - Du har +2 på alle rull som handler om karisma.
 
 
-2. Førstestyrmann
+# Førstestyrmann
 - mental: 1
 - physical: 4
 The First Mate is the second-in-command, they're the muscle and the enforcer of the Captain's orders. Often the strongest or toughest member of the crew, they command respect and are used to hard labor.
