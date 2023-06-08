@@ -66,7 +66,7 @@ The Båtsmann is responsible for the sails, ropes, and other rigging on the ship
 - Båtsmann kan 2 ganger om dagen bruke en action på å gi en annen karakter dobbelt antall terninger på en action de gjør (gitt at han/hun er der handlingen blir gjort).
 
 ## Skills
-# du har +2 på alle rull som handler om stealth
+- du har +2 på alle rull som handler om stealth
 
 
 
