@@ -1,4 +1,4 @@
-# Captain
+# Kaptein
 - mental: 3
 - Physical: 2
 
