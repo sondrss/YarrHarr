@@ -1,6 +1,7 @@
 # Kaptein
 - mental: 3
-- Physical: 2
+- fysikk: 2
+- hp: 5
 
 The Captain is the leader of the ship and its crew, skilled in persuasion, strategy, and leadership. The Captain can boost morale, make important decisions, and be an inspiration for the crew.
 
@@ -18,7 +19,8 @@ The Captain is the leader of the ship and its crew, skilled in persuasion, strat
 
 # Førstestyrmann
 - mental: 1
-- physical: 4
+- fysikk: 4
+- hp: 7
 The First Mate is the second-in-command, they're the muscle and the enforcer of the Captain's orders. Often the strongest or toughest member of the crew, they command respect and are used to hard labor.
 
 ## Abilities:
@@ -38,7 +40,8 @@ The First Mate is the second-in-command, they're the muscle and the enforcer of 
 
 # Kvartermester
 - mental: 4
-- physical: 1
+- fysikk: 1
+- hp: 4
 
 The Quartermaster is responsible for the navigation and the general maintenance of the ship. They have a keen understanding of the sea and can guide the ship through the most treacherous conditions.
 
@@ -56,7 +59,8 @@ The Quartermaster is responsible for the navigation and the general maintenance 
 
 # Båtsmann
 - mental 2
-- physical 3
+- fysikk 3
+- hp: 5
 
 The Båtsmann is responsible for the sails, ropes, and other rigging on the ship. They are agile and quick, able to move through the rigging with ease and speed.
 
